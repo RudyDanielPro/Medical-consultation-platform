@@ -1,2 +1,3 @@
-# Medical-consultation-platform
-Platform designed with the aim of facilitating the work of medical students and doctors who support the professional development of these individuals.
+# MedHistory
+
+Aplicación Web con el objetivo de realizar consultas por parte de los estudiantes de medicina supervisadas por un medico profesional.

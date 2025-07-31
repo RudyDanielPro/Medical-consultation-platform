@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "3e1a",
+      "username": "rudysc",
+      "email": "rudysc@estudiantes.uci.cu",
+      "password": "Rudy*123",
+      "userType": "estudiante",
+      "medicalCode": null,
+      "createdAt": "2025-07-05T18:22:53.132Z"
+    },
+    {
+      "id": "f935",
+      "username": "lazarom",
+      "email": "lazaromanuelcarballo@estudiantes.uci.cu",
+      "password": "Rudy*123",
+      "userType": "doctor",
+      "medicalCode": "med123",
+      "createdAt": "2025-07-05T18:27:05.103Z"
+    }
+  ],
+  "inquiries": [],
+  "notifications": []
+}
